@@ -1,3 +1,5 @@
+//Java program to read the input1.xml file and display the attributes in the java output
+
 package src;
 import java.io.File;
 import java.io.IOException;
