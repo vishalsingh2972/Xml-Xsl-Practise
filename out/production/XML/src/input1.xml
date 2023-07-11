@@ -7,7 +7,7 @@
             </Items>
             <Items ItemId="300" ItemDescription="testitem1" UOM="EACH" UnitPrice="8.0">
             </Items>
-            <Items ItemId="500" ItemDescription="trialitem" UOM="EACH" UnitPrice="9.5">
+            <Items ItemId="500" ItemDescription="trialitem" UOM="EACH" UnitPrice="9.5"> <!--Trial item added for practise-->
             </Items>
         </OrderLine>
     </OrderLines>
