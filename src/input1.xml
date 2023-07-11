@@ -1,0 +1,13 @@
+<Order>
+    <OrderLines>
+        <OrderLine>
+            <Items ItemId="100" ItemDescription="testitem1" UOM="EACH" UnitPrice="1.0">
+            </Items>
+            <Items ItemId="200" ItemDescription="testitem1" UOM="EACH" UnitPrice="5.0">
+            </Items>
+            <Items ItemId="300" ItemDescription="testitem1" UOM="EACH" UnitPrice="8.0">
+            </Items>
+        </OrderLine>
+    </OrderLines>
+</Order>
+
