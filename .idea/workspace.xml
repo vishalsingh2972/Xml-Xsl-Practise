@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fc74441-6b4d-4a6b-9f58-2885f8e35347" name="Changes" comment="trial item added for practise">
-      <change beforePath="$PROJECT_DIR$/src/input1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/input1.java" afterDir="false" />
-    </list>
+    <list default="true" id="2fc74441-6b4d-4a6b-9f58-2885f8e35347" name="Changes" comment="input1 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,12 +91,20 @@
       <option name="project" value="LOCAL" />
       <updated>1689061802950</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="input1 done">
+      <option name="closed" value="true" />
+      <created>1689063982827</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689063982827</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="input1 done" />
     <MESSAGE value="trial item added for practise" />
-    <option name="LAST_COMMIT_MESSAGE" value="trial item added for practise" />
+    <MESSAGE value="input1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="input1 done" />
   </component>
 </project>
